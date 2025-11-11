@@ -1,0 +1,181 @@
+{
+  "foods": [
+    {
+      "food_name": "Pizza",
+      "food_image": "assets/images/pizza.png",
+      "restaurants": [
+        {
+          "restaurant_name": "Dominos",
+          "food_varieties": [
+            {
+              "variety_name": "Spicy Paneer Pizza",
+              "food_price": 199,
+              "image" : "assets/images/paneer_pizza.jpeg"
+            },
+            {
+              "variety_name": "Onion and Paneer Pizza",
+              "food_price": 249,
+              "image" : "assets/images/Onion_pizza.jpg"
+            },
+            {
+              "variety_name": "Non Veg Pizza",
+              "food_price": 279,
+              "image" : "assets/images/non_veg_pizza.jpg"
+            }
+          ]
+        },
+        {
+          "restaurant_name": "Pizza Hut",
+          "food_varieties": [
+        {
+          "variety_name": "Paneer Pizza",
+          "food_price": 149,
+          "image" : "assets/images/paneer_pizza.jpeg"
+        },
+        {
+          "variety_name": "Onion Pizza",
+          "food_price": 129,
+          "image" : "assets/images/Onion_pizza.jpg"
+        },
+        {
+          "variety_name": "Non Veg Pizza",
+          "food_price": 200,
+          "image" : "assets/images/non_veg_pizza.jpg"
+        }
+        ]
+        },
+        {
+          "restaurant_name": "La Pino'z Pizza",
+          "food_varieties": [
+            {
+              "variety_name": "Paneer Pizza",
+              "food_price": 149,
+              "image" : "assets/images/paneer_pizza.jpeg"
+            },
+            {
+              "variety_name": "Onion Pizza",
+              "food_price": 129,
+              "image" : "assets/images/Onion_pizza.jpg"
+            },
+            {
+              "variety_name": "Non Veg Pizza",
+              "food_price": 200,
+              "image" : "assets/images/non_veg_pizza.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "food_name": "Burger",
+      "food_image": "assets/images/burger.png",
+      "restaurants": [
+        {
+          "restaurant_name": "Burger King",
+          "food_varieties": [
+            {
+              "variety_name": "Paneer Burger",
+              "food_price": 150,
+              "image": "assets/images/paneer_burger.jpg"
+            },
+            {
+              "variety_name": "Aloo Burger",
+              "food_price": 130,
+              "image": "assets/images/aloo_tiki.jpeg"
+            },
+            {
+              "variety_name": "Veg Cheese Burger",
+              "food_price": 130,
+              "image": "assets/images/veg_burger.jpeg"
+            },
+            {
+              "variety_name": "Non Veg Burger",
+              "food_price": 130,
+              "image" : "assets/images/chicken_burger.jpg"
+            }
+          ]
+        },
+        {
+          "restaurant_name": "McDonald's",
+          "food_varieties": [
+            {
+              "variety_name": "McAloo Tikki",
+              "food_price": 120,
+              "image": "assets/images/aloo_tiki.jpeg"
+            },
+            {
+              "variety_name": "McChicken",
+              "food_price": 160,
+              "image" : "assets/images/chicken_burger.jpg"
+            },
+            {
+              "variety_name": "Noodles Burger",
+              "food_price": 160,
+              "image": "assets/images/veg_burger.jpeg"
+            },
+            {
+              "variety_name": "Paneer spicy Burger",
+              "food_price": 160,
+              "image": "assets/images/paneer_burger.jpg"
+            }
+          ]
+        },
+        {
+          "restaurant_name": "First Bite Burger",
+          "food_varieties": [
+            {
+              "variety_name": "Aloo Tikki",
+              "food_price": 130,
+              "image": "assets/images/aloo_tiki.jpeg"
+            },
+            {
+              "variety_name": "Chicken Burger",
+              "food_price": 190,
+              "image" : "assets/images/chicken_burger.jpg"
+            },
+            {
+              "variety_name": "Veg Burger",
+              "food_price": 160,
+              "image": "assets/images/veg_burger.jpeg"
+            },
+            {
+              "variety_name": "Paneer Burger",
+              "food_price": 160,
+              "image": "assets/images/paneer_burger.jpg"
+            }
+          ]
+        }
+      ]
+    },
+
+
+    {
+      "food_name": "Dal Bati Churma",
+      "food_image": "assets/images/dal_bati.png",
+      "restaurants": [
+        {
+          "restaurant_name": "Jaipur Rasoi",
+          "food_varieties": [
+            {
+              "variety_name": "Traditional Dal Bati",
+              "food_price": 180
+            },
+            {
+              "variety_name": "Butter Dal Bati",
+              "food_price": 200
+            }
+          ]
+        },
+        {
+          "restaurant_name": "Rajasthani Thali House",
+          "food_varieties": [
+            {
+              "variety_name": "Churma Special Thali",
+              "food_price": 250
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
