@@ -5,7 +5,7 @@ A complete user-side **Food Delivery Application** built using **Flutter**, **Da
 ---
 
 ## 📱 Overview  
-The **Food Delivery User App** allows customers to browse restaurants, explore menus, place and track orders, and make secure payments. It integrates **Google Maps API** for location-based services.
+The **Food Delivery User App** allows customers to browse restaurants, explore menus, and place and track orders,. It integrates **Google Maps API** for location-based services.
 
 ---
 
